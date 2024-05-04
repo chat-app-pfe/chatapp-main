@@ -1,7 +1,7 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import { Text, Button, Input, Img, Heading } from "../../components";
-import { SelectBox} from "../../components/SelectBox";
+import { SelectBox} from "../../components/SelectBox/SelectBox";
 
 
 const dropDownOptions = [
